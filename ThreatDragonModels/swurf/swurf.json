@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "swurf",
+    "owner": "jdamme",
+    "description": "small embedded REST/WEB server"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
